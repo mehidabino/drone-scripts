@@ -1,0 +1,4 @@
+[console_scripts]
+diamond_node = turtle_shapes.diamond:main
+spiral_node = turtle_shapes.spiral_driver:main
+

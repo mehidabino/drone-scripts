@@ -1,0 +1,23 @@
+[2.079s] Invoking command in '/home/mehida/ros2_ws/src/py_pubsub': PYTHONPATH=/home/mehida/ros2_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mehida/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/mehida/ros2_ws/build/py_pubsub/build install --record /home/mehida/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed install_data
+[2.513s] running egg_info
+[2.514s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[2.515s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[2.515s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[2.515s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[2.515s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[2.519s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[2.519s] adding license file 'LICENSE'
+[2.521s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[2.521s] running build
+[2.521s] running build_py
+[2.521s] running install
+[2.522s] running install_lib
+[2.526s] running install_data
+[2.526s] running install_egg_info
+[2.531s] removing '/home/mehida/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[2.531s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/mehida/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[2.533s] running install_scripts
+[2.578s] Installing listener script to /home/mehida/ros2_ws/install/py_pubsub/lib/py_pubsub
+[2.578s] Installing talker script to /home/mehida/ros2_ws/install/py_pubsub/lib/py_pubsub
+[2.579s] writing list of installed files to '/home/mehida/ros2_ws/build/py_pubsub/install.log'
+[2.639s] Invoked command in '/home/mehida/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/mehida/ros2_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mehida/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/mehida/ros2_ws/build/py_pubsub/build install --record /home/mehida/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed install_data

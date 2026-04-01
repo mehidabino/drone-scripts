@@ -1,0 +1,38 @@
+[1.528s] Invoking command in '/home/mehida/ros2_ws/build/drone_comms': PYTHONPATH=/home/mehida/ros2_ws/build/drone_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mehida/ros2_ws/build/drone_comms/build
+[1.999s] running develop
+[2.268s] Removing /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone-comms.egg-link (link to .)
+[2.316s] Invoked command in '/home/mehida/ros2_ws/build/drone_comms' returned '0': PYTHONPATH=/home/mehida/ros2_ws/build/drone_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mehida/ros2_ws/build/drone_comms/build
+[2.319s] Invoking command in '/home/mehida/ros2_ws/src/drone_comms': PYTHONPATH=/home/mehida/ros2_ws/build/drone_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_comms build --build-base /home/mehida/ros2_ws/build/drone_comms/build install --record /home/mehida/ros2_ws/build/drone_comms/install.log --single-version-externally-managed install_data --force
+[2.740s] running egg_info
+[2.741s] writing ../../build/drone_comms/drone_comms.egg-info/PKG-INFO
+[2.741s] writing dependency_links to ../../build/drone_comms/drone_comms.egg-info/dependency_links.txt
+[2.742s] writing entry points to ../../build/drone_comms/drone_comms.egg-info/entry_points.txt
+[2.742s] writing requirements to ../../build/drone_comms/drone_comms.egg-info/requires.txt
+[2.742s] writing top-level names to ../../build/drone_comms/drone_comms.egg-info/top_level.txt
+[2.745s] reading manifest file '../../build/drone_comms/drone_comms.egg-info/SOURCES.txt'
+[2.747s] writing manifest file '../../build/drone_comms/drone_comms.egg-info/SOURCES.txt'
+[2.747s] running build
+[2.747s] running build_py
+[2.747s] copying drone_comms/altitude_monitor.py -> /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms
+[2.748s] copying drone_comms/altitude_pub.py -> /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms
+[2.748s] running install
+[2.749s] running install_lib
+[2.751s] creating /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms
+[2.751s] copying /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms/altitude_monitor.py -> /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms
+[2.751s] copying /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms/altitude_pub.py -> /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms
+[2.751s] copying /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms/__init__.py -> /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms
+[2.752s] byte-compiling /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms/altitude_monitor.py to altitude_monitor.cpython-310.pyc
+[2.753s] byte-compiling /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms/altitude_pub.py to altitude_pub.cpython-310.pyc
+[2.754s] byte-compiling /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms/__init__.py to __init__.cpython-310.pyc
+[2.754s] running install_data
+[2.754s] copying resource/drone_comms -> /home/mehida/ros2_ws/install/drone_comms/share/ament_index/resource_index/packages
+[2.754s] copying package.xml -> /home/mehida/ros2_ws/install/drone_comms/share/drone_comms
+[2.755s] creating /home/mehida/ros2_ws/install/drone_comms/share/drone_comms/launch
+[2.755s] copying launch/stack.launch.py -> /home/mehida/ros2_ws/install/drone_comms/share/drone_comms/launch
+[2.755s] running install_egg_info
+[2.758s] Copying ../../build/drone_comms/drone_comms.egg-info to /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms-0.0.0-py3.10.egg-info
+[2.760s] running install_scripts
+[2.800s] Installing altitude_monitor script to /home/mehida/ros2_ws/install/drone_comms/lib/drone_comms
+[2.800s] Installing altitude_pub script to /home/mehida/ros2_ws/install/drone_comms/lib/drone_comms
+[2.800s] writing list of installed files to '/home/mehida/ros2_ws/build/drone_comms/install.log'
+[2.853s] Invoked command in '/home/mehida/ros2_ws/src/drone_comms' returned '0': PYTHONPATH=/home/mehida/ros2_ws/build/drone_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_comms build --build-base /home/mehida/ros2_ws/build/drone_comms/build install --record /home/mehida/ros2_ws/build/drone_comms/install.log --single-version-externally-managed install_data --force

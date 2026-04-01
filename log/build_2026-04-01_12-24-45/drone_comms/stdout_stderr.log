@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/drone_comms/drone_comms.egg-info
+writing ../../build/drone_comms/drone_comms.egg-info/PKG-INFO
+writing dependency_links to ../../build/drone_comms/drone_comms.egg-info/dependency_links.txt
+writing entry points to ../../build/drone_comms/drone_comms.egg-info/entry_points.txt
+writing requirements to ../../build/drone_comms/drone_comms.egg-info/requires.txt
+writing top-level names to ../../build/drone_comms/drone_comms.egg-info/top_level.txt
+writing manifest file '../../build/drone_comms/drone_comms.egg-info/SOURCES.txt'
+reading manifest file '../../build/drone_comms/drone_comms.egg-info/SOURCES.txt'
+writing manifest file '../../build/drone_comms/drone_comms.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mehida/ros2_ws/build/drone_comms/build
+creating /home/mehida/ros2_ws/build/drone_comms/build/lib
+creating /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms
+copying drone_comms/__init__.py -> /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms
+running install
+running install_lib
+creating /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms
+copying /home/mehida/ros2_ws/build/drone_comms/build/lib/drone_comms/__init__.py -> /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms
+byte-compiling /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mehida/ros2_ws/install/drone_comms/share/ament_index
+creating /home/mehida/ros2_ws/install/drone_comms/share/ament_index/resource_index
+creating /home/mehida/ros2_ws/install/drone_comms/share/ament_index/resource_index/packages
+copying resource/drone_comms -> /home/mehida/ros2_ws/install/drone_comms/share/ament_index/resource_index/packages
+copying package.xml -> /home/mehida/ros2_ws/install/drone_comms/share/drone_comms
+running install_egg_info
+Copying ../../build/drone_comms/drone_comms.egg-info to /home/mehida/ros2_ws/install/drone_comms/lib/python3.10/site-packages/drone_comms-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/mehida/ros2_ws/build/drone_comms/install.log'
