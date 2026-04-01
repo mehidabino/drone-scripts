@@ -1,4 +1,0 @@
-[console_scripts]
-altitude_monitor = drone_comms.altitude_monitor:main
-altitude_pub = drone_comms.altitude_pub:main
-
